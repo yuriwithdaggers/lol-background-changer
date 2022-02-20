@@ -16,9 +16,9 @@
 
 #### How can I get my favorite skins ID? 🤔
 
-Skins ID: [Here](https://pastebin.com/raw/BEzEnxhL)
+Champions ID: [Here](https://pastebin.com/raw/BEzEnxhL)
 
-Champions ID: [Here](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/)
+Skins ID: [Here](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-tiles/)
 
 ## Required:
 
